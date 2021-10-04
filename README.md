@@ -1,7 +1,14 @@
-# Getting Started with Create React App
+# Getting Started with Course Kid
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped and react route with [Course Kid](https://course-kid.netlify.app/).
 
+## About Webiite
+In this website you can learn your kids coourse
+You can see our all course duration and pricng
+Youn cann learns with free of some course
+This Is best website to your children enhance qualityes
+
+In the project directory, you can run:
 ## Available Scripts
 
 In the project directory, you can run:
