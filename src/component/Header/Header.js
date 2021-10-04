@@ -23,7 +23,7 @@ const Header = () => {
                         <Link to="/contact" className="text-decoration-none text-white ms-3">Contact</Link>
                     </Nav>
                 </Container>
-                <button className='btn btn-outline-dark text-light text-center me-5'>Subscrip</button>
+                <button className='btn btn-outline-dark text-light text-center me-5'>Join us</button>
             </Navbar>
         </div>
     );
