@@ -43,7 +43,6 @@ const Contact = () => {
             <div>
                 <form>
                     <div>
-                        <input type="text" name="Name" id="" />
                         <input type="text" id="input-name" placeholder="Name"/>
                         <input type ="email" id="input-email" placeholder="Email address"/>
                         <input type ="text" id="input-subject" placeholder="Subject"/>
