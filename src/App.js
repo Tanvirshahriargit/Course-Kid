@@ -12,6 +12,8 @@ import NotFound from './component/NotFound/NotFound';
 import About from './component/About/About';
 import Contact from './component/Contact/Contact';
 import Services from './component/Services/Services';
+import OurProgrames from './component/OurProgrames/OurProgrames';
+import OurEvent from './component/OurEvent/OurEvent';
 library.add(fab, faCheckSquare, faCoffee)
 
 function App() {
@@ -31,6 +33,9 @@ function App() {
           </Route>
           <Route path="/services">
             <Services></Services>
+          </Route>
+          <Route path="/event">
+            <OurEvent></OurEvent>
           </Route>
           <Route path="/contact">
             <Contact></Contact>

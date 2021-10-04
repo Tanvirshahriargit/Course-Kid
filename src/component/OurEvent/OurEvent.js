@@ -1,11 +1,11 @@
-import { faArrowAltCircleRight, faClock, faStar } from '@fortawesome/free-regular-svg-icons';
-import { faArrowRight, faStarAndCrescent } from '@fortawesome/free-solid-svg-icons';
+import { faClock, faStar } from '@fortawesome/free-regular-svg-icons';
+import { faArrowRight} from '@fortawesome/free-solid-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import React from 'react';
 import { Link } from 'react-router-dom';
 
 const OurEvent = (props) => {
-    const { name, description, durations, schedule, price, img } = props.course;
+    const { name, description, durations, price, img } = props.course;
     return (
         <div>
             <div className="d-flex m-3 border border-1 p-2">

@@ -1,9 +1,15 @@
 import React from 'react';
-
-const Gallery = () => {
+import "./Gallery.css"
+const Gallery = (props) => {
+    const { img } = props.course;
     return (
         <div>
-            <h1>Galaray Here</h1>
+            <div className="col">
+                <div className="card">
+                    {/* Hover Effect */}
+                        <img  width="400px" height="300px" className="p-3 hovers" src={img} alt="" />
+                    </div>
+                </div>
         </div>
     );
 };

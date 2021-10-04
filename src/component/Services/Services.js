@@ -15,7 +15,6 @@ const Services = () => {
     return (
         <>
         <div>
-            <h1>Services 4 section here</h1>
             {
                 courses.map(course => <OurEvent
                     key={course.id}
@@ -33,7 +32,32 @@ const Services = () => {
                     
                 ></ProgrameDetails>  
                 )
-            }   
+            } ,
+                
+            <h1 className="bg-dark p-5 text-light my-4">Our Program</h1>
+            <div className="row row-cols-1 row-cols-md-3 g-4 ms-2">
+                {
+                
+                courses.map(course => <OurProgrames
+                    key={course.id}
+                    course={course}
+                    
+                ></OurProgrames>  
+                )
+            } 
+            </div>,
+            <h1 className="bg-dark p-5 text-light my-4">Gallery</h1>
+            <div className="row row-cols-1 row-cols-md-3 g-4 ms-2">
+                {
+                
+                courses.map(course => <Gallery
+                    key={course.id}
+                    course={course}
+                    
+                ></Gallery>  
+                )
+            } 
+            </div>
         </div>
         </>
     );

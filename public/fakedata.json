@@ -1,6 +1,7 @@
 [
     {
         "id": 1,
+        "cls":"Ducks",
         "name": "This is a great resource for fun and learning about",
         "description": "Summer learning loss is a real problem. Alarmingly, research suggests students may lose more than one month of reading knowledge during the summer, and the losses in math may be even greater  Here we’ve compiled a few resources to keep students learning through the dog days of summer, with a particular focus on math and reading. For starters, the Edutopia blog post Avoiding the Summer Slide in Reading and Writing from Heather Wolpert-Gawron is chock-full of useful information and strategies for parents and students.",
         "durations": "2 month",
@@ -10,6 +11,7 @@
     },
     {
         "id": 2,
+        "cls":"Daisies",
         "name": "Physical Education Primary Level",
         "description": "reschool-aged children (ages 3 through 5 years) should be physically active throughout the day for growth and development.Adult caregivers should encourage preschool-aged children to be active when they play.Most of your child’s daily 60 minutes of physical activity should be aerobic activities, like walking, running, or anything that makes their hearts beat faster. In addition, encourage them to do aerobic activities at least 3 days a week that make them breathe fast and their hearts pound.",
         "durations": "3 month",
@@ -19,6 +21,7 @@
     },
     {
         "id": 3,
+        "cls":"Buttercups",
         "name": "Kids Time Drawing Course",
         "description": "Encourage children to draw with their eyes on the object they are drawing. Try putting a square of paper on their pencil, above the spot they grip, so that they cannot see the line they make. Have them draw practice lines first. Have them practice drawing each part of the shape separately.Summer learning loss is a real problem. Alarmingly, research suggests students may lose more than one month of reading knowledge during the summer, and the losses in math may be even greater  Here we’ve compiled a few resources to keep students learning through the dog days of summer, with a particular focus on math and reading. For starters, the Edutopia blog post Avoiding the Summer Slide in Reading and Writing from Heather Wolpert-Gawron is chock-full of useful information and strategies for parents and students.",
         "durations": "4 month",
@@ -28,6 +31,7 @@
     },
     {
         "id": 4,
+        "cls":"Sunflowers",
         "name": "Singing For Kids for Fun",
         "description": "The quality of the voice is dependent on many factors; however, barring a physical vocal disability, everyone can learn to sing well enough to sing basic songs. While some factors are genetic, Rutkowski says growing up in a musical environment strongly influences whether someone sings well and confidently.When it comes to the question of is singing a talent or skill? The answer is that it is a mix of both. Yes, you can learn to sing with practice and a good teacher.",
         "durations": "6 month",
@@ -37,6 +41,7 @@
     },
     {
         "id": 5,
+        "cls":"Out",
         "name": "Creative Learning for Kids",
         "description": "Creative play develops preschooler confidence, language, physical and thinking skills, imagination and emotional understanding. Dramatic play helps preschoolers make sense of the world. Arts and craft activities encourage self-expression and decision-making.Education enhances creative ability, period. Creation itself is the highest form of learning, and understanding that fact will change how we approach discovery and education in daily life. We should not be too rushed, too focused on creation",
         "durations": "5 month",
@@ -46,6 +51,7 @@
     },
     {
         "id": 6,
+        "cls":"Play",
         "name": "Math Course For Kids",
         "description": "Mathematics is the science that deals with the logic of shape, quantity and arrangement. Math is all around us, in everything we do. It is the building block for everything in our daily lives, including mobile devices, architecture (ancient and modern), art, money, engineering, and even sports.A basic definition of mathematics (or maths, or math, depending where you are in the world) is that it is an education in numeric sciences, using a range of different approaches including algebra, calculus and basic arithmetic.",
         "durations": "4 month",
@@ -55,6 +61,7 @@
     },
     {
         "id": 7,
+        "cls":"Nursary",
         "name": "Career and Jobs Fair for Student.",
         "description": "Influential media, entertainment & technology show inspirational speakers including game-changing, not just a large-scale conference, but a large educational hub on digital technologies for business, where people communicate, get inspired and find ready-made solutions or business. Taking place over two days this year will be the 10th Conference Ideas with a theme of Dangerous Realities. It features sessions and performances that explore climate change, meritocracy, giving",
         "durations": "5 month",
@@ -64,6 +71,7 @@
     },
     {
         "id": 8,
+        "cls":"Bukket Play",
         "name": "Creative Arts For Kids",
         "description": "In relation to children, the creative arts are activities that engage a child's imagination and can include activities such as art, dance, drama, puppetry, and music . They make Make learn for. A splatter painting. Using watercolors and a toothbrush, splatter paint on white paper. Create a nature collage Make a collage box.Paint thumbprint picture. Print with kitchen items. Make tracks. Create Pan art.Connect the dots.",
         "durations": "3 month",
