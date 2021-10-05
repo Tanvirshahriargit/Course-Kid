@@ -16,8 +16,6 @@ This project was bootstrapped and react route.Visit My site [Course Kid](https:/
 
 * This Is best website to your children enhance qualityes
 
-* In the project directory, you can run:
-
 ## Technologies
 Project is created with:
 * Bootstrap 

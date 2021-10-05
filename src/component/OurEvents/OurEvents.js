@@ -14,12 +14,12 @@ const OurEvents = () => {
     return (
         <div>
             {
-                    courses.map(course => <OurEvent
-                        key={course.id}
-                        course={course}
+                courses.map(course => <OurEvent
+                    key={course.id}
+                    course={course}
 
-                    ></OurEvent>
-                    )
+                ></OurEvent>
+                )
             }
         </div>
     );
