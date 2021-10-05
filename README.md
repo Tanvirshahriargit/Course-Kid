@@ -2,28 +2,29 @@
 
 This project was bootstrapped and react route.Visit My site [Course Kid](https://course-kid.netlify.app/).
 
+## Table of contents
+* [About Website](#about-website)
+* [Technologies](#technologies)
+* [Setup](#setup)
+
 ## About Website
-In this website you can learn your kids coourse
+* In this website you can learn your kids coourse
 
-You can see our all course duration and pricng
+* You can see our all course duration and pricng
 
-Youn cann learns with free of some course
+* Youn cann learns with free of some course
 
-This Is best website to your children enhance qualityes
+* This Is best website to your children enhance qualityes
 
-In the project directory, you can run:
+* In the project directory, you can run:
 
 ## Technologies
 Project is created with:
 * Bootstrap 
 * React Router
 
-## Table of contents
-* [General info](#general-info)
-* [Technologies](#technologies)
-* [Setup](#setup)
 
-## Available Scripts
+## Setup
 
 In the project directory, you can run:
 
