@@ -1,6 +1,6 @@
-# Getting Started with Course Kid
+# Course Kid- Simple Website
 
-This project was bootstrapped and react route with Visite My site [Course Kid](https://course-kid.netlify.app/).
+This project was bootstrapped and react route.Visit My site [Course Kid](https://course-kid.netlify.app/).
 
 ## About Website
 In this website you can learn your kids coourse
@@ -12,6 +12,17 @@ Youn cann learns with free of some course
 This Is best website to your children enhance qualityes
 
 In the project directory, you can run:
+
+## Technologies
+Project is created with:
+* Bootstrap 
+* React Router
+
+## Table of contents
+* [General info](#general-info)
+* [Technologies](#technologies)
+* [Setup](#setup)
+
 ## Available Scripts
 
 In the project directory, you can run:
