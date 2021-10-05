@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import { BrowserRouter as Router ,Switch ,Route} from 'react-router-dom';
+import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import Header from './component/Header/Header';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { library } from '@fortawesome/fontawesome-svg-core'
@@ -12,8 +12,7 @@ import NotFound from './component/NotFound/NotFound';
 import About from './component/About/About';
 import Contact from './component/Contact/Contact';
 import Services from './component/Services/Services';
-import OurProgrames from './component/OurProgrames/OurProgrames';
-import OurEvent from './component/OurEvent/OurEvent';
+import OurEvents from './component/OurEvents/OurEvents';
 library.add(fab, faCheckSquare, faCoffee)
 
 function App() {
@@ -23,10 +22,10 @@ function App() {
         <Header></Header>
         <Switch>
           <Route exact path="/">
-          <Home></Home>
+            <Home></Home>
           </Route>
           <Route path="/home">
-          <Home></Home>
+            <Home></Home>
           </Route>
           <Route path="/about">
             <About></About>
@@ -35,7 +34,7 @@ function App() {
             <Services></Services>
           </Route>
           <Route path="/event">
-            <OurEvent></OurEvent>
+            <OurEvents></OurEvents>
           </Route>
           <Route path="/contact">
             <Contact></Contact>

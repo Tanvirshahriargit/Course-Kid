@@ -1,8 +1,8 @@
 # Getting Started with Course Kid
 
-This project was bootstrapped and react route with [Course Kid](https://course-kid.netlify.app/).
+This project was bootstrapped and react route with Visite My site [Course Kid](https://course-kid.netlify.app/).
 
-## About Webiite
+## About Website
 In this website you can learn your kids coourse
 
 You can see our all course duration and pricng

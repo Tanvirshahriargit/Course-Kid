@@ -6,7 +6,7 @@ const NotFound = () => {
         <div>
             <h1>404 Not Found Anything</h1>
             <button className='btn btn-outline-dark text-light text-center m-5'>
-            <Link to='/home' className="text-decoration-none ms-3">Back to Home</Link>
+                <Link to='/home' className="text-decoration-none ms-3">Back to Home</Link>
             </button>
         </div>
     );

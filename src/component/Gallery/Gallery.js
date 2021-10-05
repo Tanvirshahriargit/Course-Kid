@@ -7,9 +7,9 @@ const Gallery = (props) => {
             <div className="col">
                 <div className="card">
                     {/* Hover Effect */}
-                        <img  width="400px" height="300px" className="p-3 hovers" src={img} alt="" />
-                    </div>
+                    <img width="400px" height="300px" className="py-3 ps-3 hovers" src={img} alt="" />
                 </div>
+            </div>
         </div>
     );
 };

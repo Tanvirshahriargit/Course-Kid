@@ -1,5 +1,5 @@
 import { faEnvelope } from '@fortawesome/free-regular-svg-icons';
-import { faLocationArrow, faPhone, faPhoneAlt } from '@fortawesome/free-solid-svg-icons';
+import { faLocationArrow, faPhoneAlt } from '@fortawesome/free-solid-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import React from 'react';
 import "./Contact.css"
@@ -7,7 +7,7 @@ import "./Contact.css"
 const Contact = () => {
     return (
         <div>
-            <h1 className="bg-dark p-5 text-light my-4">About Us</h1>
+            <h1 className="bg-dark p-5 text-light my-4">Contact Us</h1>
             <div className="d-flex p-2 m-2">
                 <div className="m-2">
                     <h5 className="text-primary text-start">Contact Us</h5>
@@ -43,18 +43,18 @@ const Contact = () => {
             <div>
                 <form>
                     <div>
-                        <input type="text" id="input-name" placeholder="Name"/>
-                        <input type ="email" id="input-email" placeholder="Email address"/>
-                        <input type ="text" id="input-subject" placeholder="Subject"/>
-                        </div>
-                        <div class ="half right cf">
-                        <textarea name="message" type ="text" id="input-message" placeholder="Message"></textarea>
-                        </div>
-                        <input className="bg-primary" type ="submit" value="Submit" id="input-submit"/>
-                        </form>
-                        </div>
+                        <input type="text" id="input-name" placeholder="Name" />
+                        <input type="email" id="input-email" placeholder="Email address" />
+                        <input type="text" id="input-subject" placeholder="Subject" />
                     </div>
-                    );
+                    <div class="half right cf">
+                        <textarea name="message" type="text" id="input-message" placeholder="Message"></textarea>
+                    </div>
+                    <input className="bg-primary" type="submit" value="Submit" id="input-submit" />
+                </form>
+            </div>
+        </div>
+    );
 };
 
-                    export default Contact;
+export default Contact;
