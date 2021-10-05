@@ -1,6 +1,5 @@
 import React, { useEffect, useState } from 'react';
 import Gallery from '../Gallery/Gallery';
-import OurEvent from '../OurEvent/OurEvent';
 import OurEvents from '../OurEvents/OurEvents';
 import OurProgrames from '../OurProgrames/OurProgrames';
 import ProgrameDetails from '../ProgrameDetails/ProgrameDetails';

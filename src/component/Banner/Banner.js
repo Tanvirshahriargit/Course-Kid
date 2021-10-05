@@ -4,6 +4,7 @@ import "./Banner.css"
 const Banner = () => {
     return (
         <div>
+            {/* left sections  */}
             <div className="imges d-flex mb-5">
                 <div className="mx-4">
                     <h4 className="text-white mt-5">Admission Open (2021-2022)</h4>
@@ -13,6 +14,7 @@ const Banner = () => {
                         <button className="btn btn-primary mt-4">Our Services</button>
                     </Link>
                 </div>
+                {/* Right Sections */}
                 <div>
                     <img src={"https://demo.themewinter.com/wp/courselog/kindergarten/wp-content/uploads/sites/8/2021/04/slider-image2.png"} alt="" />
                 </div>

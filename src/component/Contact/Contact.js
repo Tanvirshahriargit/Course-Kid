@@ -8,6 +8,7 @@ const Contact = () => {
     return (
         <div>
             <h1 className="bg-dark p-5 text-light my-4">Contact Us</h1>
+            {/* Left Sections Contact us */}
             <div className="d-flex p-2 m-2">
                 <div className="m-2">
                     <h5 className="text-primary text-start">Contact Us</h5>
@@ -35,11 +36,14 @@ const Contact = () => {
                     </div>
 
                 </div>
+
+                {/* Right Sections Contact Us */}
                 <div className="ms-5">
                     {/* google Map Link */}
                     <div className="mapouter ms-5"><div className="gmap_canvas"> <iframe width="600" height="500" src={"https://maps.google.com/maps?q=2880%20Broadway,%20New%20York&t=&z=13&ie=UTF8&iwloc=&output=embed"} frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href={"https://www.embedgooglemap.net/blog/divi-discount-code-elegant-themes-coupon/"}> </a></div></div>
                 </div>
             </div>
+            {/* Bottom Submit Form Section */}
             <div>
                 <form>
                     <div>

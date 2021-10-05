@@ -13,9 +13,11 @@ const OurEvent = (props) => {
                     <img width="400px" height="300px" className="m-2 rounded rounded-4" src={img} alt="" />
                 </div>
                 <div>
-                    <h3>{name}</h3>
+                    <h4>{name}</h4>
+
+                    {/* star icons */}
                     <p>
-                        <FontAwesomeIcon className="text-warning" icon={faStar} />
+                        <FontAwesomeIcon className="text-warning " icon={faStar} />
                         <FontAwesomeIcon className="text-warning" icon={faStar} />
                         <FontAwesomeIcon className="text-warning" icon={faStar} />
                         <FontAwesomeIcon className="text-warning" icon={faStar} />
@@ -25,6 +27,7 @@ const OurEvent = (props) => {
                     <p className="text-dark">{description.slice(0, 180)}.</p>
                     <button className="btn btn-outline-info text-dark text-center mb-3">{price}</button>
                     <br />
+                    {/* More Details link */}
                     <Link to="/services">
                         <button className="btn btn-primary">More Details  <FontAwesomeIcon className="text-light" icon={faArrowRight} /> </button>
                     </Link>

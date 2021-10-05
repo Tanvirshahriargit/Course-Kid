@@ -5,10 +5,13 @@ const About = () => {
     return (
         <div>
             <h1 className="bg-dark p-5 text-light my-4">About Us</h1>
+            {/* Left Side About Sections */}
             <div className="d-flex">
                 <div>
                     <img className="img-fluid p-4" width="700px" src={'https://www.rd.com/wp-content/uploads/2016/04/33-your-childs-teacher-happy-kids-classroom.jpg'} alt="" />
                 </div>
+
+                {/* right side About Sections */}
                 <div className="p-4 text-start border-top border-info">
                     <h1>Why You Learn
                         <br />
